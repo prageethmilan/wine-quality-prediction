@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Wine Quality Predictor-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wine-Quality-Predictor-frontend" vcs="Git" />
   </component>
 </project>
